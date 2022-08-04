@@ -40,7 +40,8 @@
 	}
 	a {
 		font-weight: bold;
-		color: inherit; text-decoration: none; outline: none;
+		color: inherit; text-decoration: none; 
+		outline: none;
 		&:hover, &:active {
 			text-decoration: none; background-color:transparent;
 		}
