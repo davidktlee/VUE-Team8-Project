@@ -7,7 +7,9 @@
           <RouterLink
             :class="{ current: $route.path === '/mypage/PurchaseHistory' }"
             to="/mypage/PurchaseHistory"
-            >구매내역</RouterLink
+            >
+            구매내역
+            </RouterLink
           >
           <RouterLink
             :class="{ current: $route.path === '/mypage/reservation' }"
