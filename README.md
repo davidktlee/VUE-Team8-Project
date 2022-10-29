@@ -2,7 +2,7 @@
 
 ## 배포 사이트
 
-> [사용자페이지](https://luminous-mandazi-e5ba79.netlify.app)
+> [사용자페이지](team8-emoticon-shop.netlify.app)
 >> 가입 후 사용  
 >> 아이디: jsjs@gmail.com  
 >> 비밀번호: jcjcjcjc
